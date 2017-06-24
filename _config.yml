@@ -1,0 +1,53 @@
+# Basic
+title: My Dreamland
+subtitle:  Wellcome to My Homepage
+description: Software Engineer,Traveller,Basketballer and Music Lover
+welcome_message: The time is limited, so don't waste it living someone else's life. Don't be trapped by dogma.
+
+creator: <a href="http://zhouchenzc0824.github.io">@Mr.Zhou</a>
+url: "http://zhouchenzc0824.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: plain
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: 
+
+blog_button:
+    title: Blog
+    description: Visit My Blog
+
+nav:
+    - {title: Projects, description: My Projects, url: 'http://zhouchenzc0824.github.io/myProjects'}
+    - {title: About Me, description: Learn Me More And Have Fun, url: 'http://zhouchenzc0824.github.io/aboutMe'}
+#    - {title: Subscribe, description: Subscribe this site, url: '//store.objccn.io/subscribe'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: Mr.zhou
+    # duoshuo:
+# Social
+social:
+    weibo: http://weibo.com/zhouchenzc
+    github: https://github.com/zhouchenzc0824
+    instagram: https://www.instagram.com/zhouchenzcins
+    linkedin: https://www.linkedin.com/in/chen-zhou-68877659
+#   twitter: 
+#   gplus: 
+    Homepage: https://zhouchenzc0824.github.io/
+    mail: zhouchenzc0824@gmail.com
+
+# Google Analytics
+ga:
+    id: UA-92284523-1
+    host: zhouchenzc0824.github.io
