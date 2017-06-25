@@ -6,7 +6,7 @@ welcome_message: The time is limited, so don't waste it living someone else's li
 
 creator: <a href="http://zhouchenzc0824.github.io">@Mr.Zhou</a>
 url: "http://zhouchenzc0824.github.io/"
-baseurl: "/zhouchenzc0824.github.io"
+#baseurl: ""
 
 permalink: /:year/:month/:title/
 
