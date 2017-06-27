@@ -5,9 +5,8 @@ description: Software Engineer,Traveller,Basketballer and Music Lover
 welcome_message: The time is limited, so don't waste it living someone else's life. Don't be trapped by dogma.
 
 creator: <a href="http://zhouchenzc0824.github.io">@Mr.Zhou</a>
-url: "http://zhouchenzc0824.github.io/"
-#baseurl: ""
-
+url: "http://zhouchenzc0824.github.io"
+#baseurl: "zhouchenzc0824"
 permalink: /:year/:month/:title/
 
 # Format

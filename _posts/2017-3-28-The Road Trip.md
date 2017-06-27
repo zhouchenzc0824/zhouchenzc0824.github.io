@@ -25,7 +25,7 @@ tags: [Road Trip]
 ![building](/assets/trip/building.jpg)
 
 开车往公园里面开着，半山的公路加上路边的树木，让人很感觉到生机盎然。碰到了一个N连发卡弯，简直不要太刺激了。
-![road](/assets/trip/Road.jpg)
+![road](/assets/trip/Road.png)
 
 据我所知，很多人会单独请个假，春秋季节再这里住上个十天半个月的，简直不能更棒了。
 ![gift](/assets/trip/go.jpg)
