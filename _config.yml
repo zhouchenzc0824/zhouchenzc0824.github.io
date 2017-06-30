@@ -28,7 +28,8 @@ nav:
 #    - {title: Subscribe, description: Subscribe this site, url: '//store.objccn.io/subscribe'}
 
 # Pagination
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate] ====== rename gems: =====> plugins:  
+plugins: [jekyll-paginate]
 paginate: 10
 paginate_path: "page/:num/"
 
