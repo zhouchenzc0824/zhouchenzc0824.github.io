@@ -45,7 +45,7 @@ tags: [Road Trip]
 ![view](/assets/trip/view.jpg)
 
 走走停停的，到了一个hiking trail就开始徒步了，规划好的路线，一路上风景很好。下图是网友所拍，那夕阳下笼罩山林浓雾，就可以知道为什么这个公园叫做Great Smoky Mountains。
-![breathtaking](/assets/trip/breathtaking.jpg)
+![breathtaking](/assets/trip/Breathtaking.jpg)
 
 路上行走间，穿过山林小溪，明明是大白天，但是还是会感觉冷不丁会有说明诡异的生物冲出来。说有熊和一些其他的动物会觅食，需要小心情况，我觉得if I fight a bear, please pray for him. 此处应该有一个doge的脸，然而我调试了半天，就是不能显示emoji和表情你说烦不烦。
 ![view](/assets/trip/trail.jpg)
