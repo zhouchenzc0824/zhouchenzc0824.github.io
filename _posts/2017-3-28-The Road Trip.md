@@ -62,4 +62,3 @@ tags: [Road Trip]
 Life is beautiful...
 
 
-
